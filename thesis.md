@@ -8,6 +8,8 @@
 
 ## Methods
 
+## Results and Discussion
+
 ## Conclusion
 
 ## Appendix
