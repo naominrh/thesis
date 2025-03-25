@@ -4,6 +4,7 @@ Felix Knote (AG Zimmer, RVZ Würzburg)
 ## Abstract
 
 ## Introduction
+Very boring but important
 -photop
 Antibiotic resistance is fueling a growing global health crisis, necessitating the discovery of antibacterial compounds with
 novel modes of action (MoAs). The decline in new antibiotic approvals, coupled with the rise of multi-resistant pathogens,
@@ -20,6 +21,7 @@ will accelerate the search for novel antibiotics against antimicrobial resistant
 
 ### Demotivation
 
+
 ## Theory
 loli pop
 
@@ -29,7 +31,11 @@ loli pop
 
 ## Discussion
 
+## Experiment
+Interesting but inconclusive
+
 ## Material & methods
+
 
 ## References
 
