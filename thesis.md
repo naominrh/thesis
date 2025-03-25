@@ -4,7 +4,7 @@
 Hier ist der Text der Einleitung
 
 ## Theory
-Die Theorie von RL machs Spaß!
+Die Theorie von RL macht Spaß!
 
 ## Experiment
 
