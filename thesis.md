@@ -2,9 +2,11 @@
 
 ## Introduction
 
-## Theory
+## Material and Methods
 
-## Experiment
+## Result
+
+## Discussion
 
 ## Conclusion
 
