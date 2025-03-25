@@ -1,11 +1,17 @@
 # Thesis Title
 
+## Abstract
+
 ## Introduction
 
 ## Theory
 
-## Experiment
+## Methods
+
+## Materials
 
 ## Conclusion
 
 ## Appendix
+
+## Literature
