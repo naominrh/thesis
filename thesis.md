@@ -4,6 +4,7 @@ Felix Knote (AG Zimmer, RVZ Würzburg)
 ## Abstract
 
 ## Introduction
+-photop
 Antibiotic resistance is fueling a growing global health crisis, necessitating the discovery of antibacterial compounds with
 novel modes of action (MoAs). The decline in new antibiotic approvals, coupled with the rise of multi-resistant pathogens,
 highlights the limitations of traditional antibiotic drug discovery. Among them, phenotypic drug screening has proven effective 
@@ -24,8 +25,12 @@ loli pop
 
 ## Results
 
+## Experimental section
+
 ## Discussion
 
 ## Material & methods
+
+## References
 
 ## Appendix
