@@ -6,7 +6,7 @@
 
 ## Materials
 
-## Experiment
+## Methods
 
 ## Conclusion
 
