@@ -3,9 +3,9 @@
 ## Introduction
 Once upon a time, dinosaurs walked this Earth. It is said that they due were already infected by the omnipresent HBV. Truly incredible!
 
-## Theory
+## Materials and Methods
 
-## Experiment
+## Results
 
 ## Conclusion
 I literally analyzed every single HBV capsid! Crown me, don't clown me!
