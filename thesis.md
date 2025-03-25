@@ -2,6 +2,11 @@
 
 ## Introduction
 In this part, the background will be explained!
+We will have a lot of stuff here:
+
+- this
+- and
+- that
 
 ## Theory
 Here, we will have the hypothesis later on.
