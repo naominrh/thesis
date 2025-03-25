@@ -1,10 +1,10 @@
-# Thesis Title
+# Title of my thesis?
 
 ## Introduction
 
 ## Material and Methods
 
-## Result
+## Results
 
 ## Discussion
 
