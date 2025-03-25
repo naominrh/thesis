@@ -1,4 +1,4 @@
-# Thesis Title
+# Generic Title
 
 ## Introduction
 In this part, the background will be explained!
