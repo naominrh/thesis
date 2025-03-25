@@ -32,6 +32,9 @@ test2
 
 ### Demotivation
 
+
+## Material and Methods
+
 ## Theory
 - Take a look at the WNT7 receptors they gotta do something 
 
@@ -47,8 +50,6 @@ Interesting but inconclusive
 ## Experimental section
 
 ## Discussion
-
-## Material & Methods
 
 ## Conclusion
 I did a great job!
