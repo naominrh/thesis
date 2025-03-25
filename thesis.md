@@ -35,10 +35,14 @@ test2
 
 ## Material and Methods
 
+This is the glorious introduction of my thesis which will blow your mind.
+
 ## Theory
 - Take a look at the WNT7 receptors they gotta do something 
 
 Die Theorie von RL macht Spaß!
+
+The very complicated theory is hard to understand but I manage to break it down such that it will be easy to understand.
 
 ## Experiment
 loli pop
@@ -51,6 +55,8 @@ Interesting but inconclusive
 
 ## Discussion
 
+The experiment will have partly really good results but also partly some results which we did not expect.
+
 ## Conclusion
 I did a great job!
 
@@ -61,3 +67,4 @@ We need some additional data here.
 
 ## Acknowledgments
 Thanks for the cake
+
