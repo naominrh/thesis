@@ -6,6 +6,7 @@ Felix Knote (AG Zimmer, RVZ Würzburg)
 ## Abstract
 
 ## Introduction
+- Blood brain barrier formation relies on WNT7...most likely....i am not allowed to say too much here
 Hier ist der Text der Einleitung
 Very boring but important
 In this part, the background will be explained!
@@ -32,21 +33,20 @@ test2
 ### Demotivation
 
 ## Theory
+- Take a look at the WNT7 receptors they gotta do something 
 
 Die Theorie von RL macht Spaß!
 
 ## Experiment
 loli pop
 Here, we will have the hypothesis later on.
+Interesting but inconclusive
 
 ## Results
 
 ## Experimental section
 
 ## Discussion
-
-## Experiment
-Interesting but inconclusive
 
 ## Material & Methods
 
@@ -57,3 +57,4 @@ I did a great job!
 
 ## Appendix
 We need some additional data here.
+
