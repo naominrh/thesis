@@ -6,6 +6,7 @@ Felix Knote (AG Zimmer, RVZ Würzburg)
 ## Abstract
 
 ## Introduction
+Hier ist der Text der Einleitung
 Very boring but important
 In this part, the background will be explained!
 We will have a lot of stuff here:
@@ -25,12 +26,16 @@ genes, we use a CRISPRi technique allowing to induce their repression in a finel
 efforts to create and phenotype these inducible mutants in E. coli. This work contributes to the establishment of a pipeline that 
 will accelerate the search for novel antibiotics against antimicrobial resistant bacteria.
 
+test2
 ### Motivation
 
 ### Demotivation
 
-
 ## Theory
+
+Die Theorie von RL macht Spaß!
+
+## Experiment
 loli pop
 Here, we will have the hypothesis later on.
 
@@ -44,7 +49,6 @@ Here, we will have the hypothesis later on.
 Interesting but inconclusive
 
 ## Material & Methods
-
 
 ## Conclusion
 I did a great job!
