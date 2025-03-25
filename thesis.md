@@ -3,6 +3,8 @@ Felix Knote (AG Zimmer, RVZ Würzburg)
 
 ## Abstract
 
+## Abstract
+
 ## Introduction
 Very boring but important
 In this part, the background will be explained!
@@ -41,7 +43,8 @@ Here, we will have the hypothesis later on.
 ## Experiment
 Interesting but inconclusive
 
-## Material & methods
+## Material & Methods
+
 
 ## Conclusion
 I did a great job!
@@ -50,4 +53,3 @@ I did a great job!
 
 ## Appendix
 We need some additional data here.
-
