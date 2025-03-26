@@ -4,7 +4,7 @@ Felix Knote (AG Zimmer, RVZ Würzburg)
 ## Abstract
 
 ## Introduction
-Once upon a time, dinosaurs walked this Earth. It is said that they due were already infected by the omnipresent HBV. Truly incredible!
+Once upon a time, dinosaurs walked this Earth. It is said that they too were already infected by the omnipresent HBV. Truly incredible!
 - Blood brain barrier formation relies on WNT7...most likely....i am not allowed to say too much here
 Hier ist der Text der Einleitung
 Very boring but important
